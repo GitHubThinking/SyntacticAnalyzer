@@ -1,0 +1,6 @@
+﻿  syntacticAnalyzer.cpp
+f:\01-vsdemo\syntacticanalyzer\syntacticanalyzer\syntacticanalyzer.cpp(404): warning C4305: “参数”: 从“int”到“char”截断
+f:\01-vsdemo\syntacticanalyzer\syntacticanalyzer\syntacticanalyzer.cpp(404): warning C4309: “参数”: 截断常量值
+f:\01-vsdemo\syntacticanalyzer\syntacticanalyzer\syntacticanalyzer.cpp(450): warning C4018: “<”: 有符号/无符号不匹配
+f:\01-vsdemo\syntacticanalyzer\syntacticanalyzer\syntacticanalyzer.cpp(447): warning C4101: “index”: 未引用的局部变量
+  SyntacticAnalyzer.vcxproj -> F:\01-VsDemo\SyntacticAnalyzer\Debug\SyntacticAnalyzer.exe
